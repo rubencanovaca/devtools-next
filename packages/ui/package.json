@@ -51,6 +51,6 @@
     "floating-vue": "5.2.2",
     "histoire": "^0.17.17",
     "unocss": "^0.59.4",
-    "vite-plugin-dts": "^3.8.3"
+    "vite-plugin-dts": "^3.9.0"
   }
 }
